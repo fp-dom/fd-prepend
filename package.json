@@ -1,7 +1,7 @@
 {
   "name": "fd-prepend",
   "version": "0.0.0",
-  "description": "",
+  "description": "prepend DOM element in a functional way.",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
